@@ -11,10 +11,6 @@ body {
     align-items: center;
 }
 
-.top {
-    display: flex;
-}
-
 ul {
     list-style-type: none;
 }
